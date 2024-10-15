@@ -13,7 +13,7 @@ This project is a management system for DuckDuckGo email aliases. It allows user
 - User registration and login system
 - Generate DuckDuckGo email aliases
 - Manage tokens for email alias generation
-- Convert between real email addresses and DuckDuckGo aliases
+- Generate or Convert between real email addresses and DuckDuckGo aliases
 - Address list management
 - Admin panel for user management
 - Multilingual support (English and Chinese)
