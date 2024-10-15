@@ -1,6 +1,10 @@
 # DuckDuckGo Email Alias Manager
 
 ![Build and Push Docker image](https://github.com/cachenow/ddgm-alias-manager/actions/workflows/Build.yml/badge.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/onereduck/ddgm-alias-manager)
+![Docker Stars](https://img.shields.io/docker/stars/onereduck/ddgm-alias-manager)
+![Docker Image Version](https://img.shields.io/docker/v/onereduck/ddgm-alias-manager)
+![Docker Image Size](https://img.shields.io/docker/image-size/onereduck/ddgm-alias-manager)
 
 [English](#english) | [中文](https://github.com/cachenow/ddgm-alias-manager/blob/main/README-CN.md)
 
