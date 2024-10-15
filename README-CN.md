@@ -7,7 +7,9 @@
 - 用户注册和登录系统
 - 生成 DuckDuckGo 邮箱别名
 - 管理用于生成邮箱别名的令牌
-- 在实际邮箱地址和 DuckDuckGo 别名之间进行转换
+- 生成或转换实际收（发）件人地址和 DuckDuckGo 别名
+  - 一键生成 someone@example.com → someone_at_example.com_someone@duck.com
+  - 一键转换 someone_at_example.com_someone@duck.com → someone@example.com
 - 地址列表管理
 - 管理员面板用于用户管理
 - 多语言支持（英语和中文）
